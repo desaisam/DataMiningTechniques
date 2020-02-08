@@ -1,0 +1,24 @@
+
+
+    .navbar.navbar-light{
+        background-color: blue;
+    }
+    #wbdev-addButton{
+        color:red;
+        size: 2em;
+    }
+
+    .wbdv-button wbdv-grid-layout{
+    
+        color: black;
+    }
+
+    #delimiter{
+        background-color: lightgray;
+        font-weight: bold;
+    }
+
+    #wbdev-course-content-tablex{
+        background-color: lightgray;
+        
+    }

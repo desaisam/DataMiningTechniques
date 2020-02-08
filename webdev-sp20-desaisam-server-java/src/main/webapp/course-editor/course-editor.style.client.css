@@ -1,0 +1,29 @@
+.list-group{
+  flex-direction: column;
+}
+
+.wbdv-module-section{
+  background-color: darkslategray;
+  font-weight: bold;
+}
+
+.list-group-item {
+  background-color: dimgrey;
+}
+.widget {
+  clear: both;
+}
+
+.btn.wbdev-up-down{
+  background-color: lime;
+}
+
+
+.btn.wbdev-close{
+  background-color:lime;
+}
+
+
+.wbdev-add-circle{
+  background-color: red;
+}
